@@ -86,7 +86,7 @@ Some details:
         foo.bar
 
 - The rule `level` is also **optional** (the default rule level is "error").
-- See [the default configuration](src/main/java/resources/conf/default.yaml) to get the default rules' parameter values.
+- See [the default configuration](src/main/resources/conf/default.yaml) to get the default rules' parameter values.
 
 ## Batch usage
 
